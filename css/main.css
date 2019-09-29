@@ -1,0 +1,13 @@
+.highPriority {
+    background-color: red;
+}
+
+.urgent{
+    background-color: orange;
+}
+
+.completed {
+    text-decoration: line-through;
+    background-color: green;
+    color: white;
+}
